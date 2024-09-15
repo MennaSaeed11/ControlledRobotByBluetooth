@@ -23,3 +23,6 @@ The following commands can be sent via serial communication (e.g., Bluetooth ter
 - `L`: Turn left
 - `R`: Turn right
 - `S`: Stop
+
+## Circuit
+![BluetoothCircuit](BluetoothCircuit.png)
